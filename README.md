@@ -8,5 +8,4 @@ Watch tutorial on YouTube
 
 commit with new name
 
-## Local Development
 
