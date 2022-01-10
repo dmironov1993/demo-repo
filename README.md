@@ -1,4 +1,4 @@
-# Demo  
+i# Demo  
 
 Some description!
 
@@ -6,6 +6,6 @@ Some description!
 
 Watch tutorial on YouTube
 
-commit with new name
+## Local Development
 
-NEW
+1. Open index.html in your browser
